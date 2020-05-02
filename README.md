@@ -1,2 +1,3 @@
-# jemur
-Belajar Git
+# Jemur
+Repository ini untuk belajar Git
+
